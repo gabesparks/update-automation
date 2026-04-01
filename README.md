@@ -1,7 +1,7 @@
 # TalentOps Automation 🤖
 
 A growing library of recruiting automation scripts. 
-Connects Greenhouse, Slack, and Claude AI to automate repetitive recruiting operations 
+Connects Greenhouse and Slack to automate repetitive recruiting operations 
 so the team can focus on what matters most — finding and hiring great people.
 
 ---
