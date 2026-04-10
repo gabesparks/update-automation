@@ -2,7 +2,7 @@
 
 A growing library of recruiting automation scripts. 
 Connects Greenhouse and Slack to automate repetitive recruiting operations 
-so the team can focus on what matters most — finding and hiring great people.
+so the team can focus on what matters most - finding and hiring great people.
 
 ---
 
@@ -46,13 +46,13 @@ Each script has a configuration section at the top. Fill in the following before
 ---
 
 ## Roadmap
-- [ ] CV screener — AI-powered candidate ranking using Claude
-- [ ] New role announcements — Auto-post when a role opens
-- [ ] New hire announcements — Auto-post when an offer is signed
-- [ ] Scorecard reminders — Nudge interviewers to submit feedback
+- [ ] CV screener - AI-powered candidate ranking using Claude
+- [ ] New role announcements - Auto-post when a role opens
+- [ ] New hire announcements - Auto-post when an offer is signed
+- [ ] Scorecard reminders - Nudge interviewers to submit feedback
 - [ ] Monthly and quarterly recruiting reports
 
 ---
 
 ## Built by
-Gabe — Talent Partner
+Gabe - Talent Partner
